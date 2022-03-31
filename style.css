@@ -3,5 +3,28 @@
     padding: 0;
 }
 body{
-    
+    background-color:rgb(165,134,134);
+}
+header{
+    background-color: rgb(233,233,233);
+    text-align: center;
+    width: 1000px;
+    height: 200px;
+    margin:auto;
+     
+}
+#tealSection{
+    background-color: rgb(100,176,167);
+    position: absolute;
+    left: 131px;
+    width: 300px;
+    height:1000px;
+    text-align: center;
+}
+#white{
+    background-color: white;
+    float: right;
+}
+figure{
+    background-color: white;
 }
