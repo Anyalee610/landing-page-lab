@@ -8,7 +8,7 @@ body{
 header{
     background-color: rgb(233,233,233);
     text-align: center;
-    width: 1000px;
+    width: 1080px;
     height: 200px;
     margin:auto;
      
@@ -16,17 +16,19 @@ header{
 h2{
     background-color: rgb(100,176,167);
     position: absolute;
-    left: 260px; top: 200px;
-    width: 300px;
-    height:800px;
+    left: 220px; top: 200px;
+    width: 340px;
+    height:850px;
+    font-size: 40px;
   
 }
 ol{
     background-color: rgb(100,176,167);
     position: absolute;
-    left: 280px; top: 230px;
-    width: 280px;
+    left: 260px; top: 270px;
+    width: 310px;
     height:770px;
+    font-size: 30px;
     /*text-align: right;*/
   
 }
@@ -34,8 +36,8 @@ ol{
 #white{
     background-color: white;
     position: absolute;
-    left: 600px; top: 200px;
-    width: 660px;
+    left: 620px; top: 240px;
+    width: 680px;
     height:800px;
     z-index: 2;
     font-size: 20px;
@@ -45,7 +47,7 @@ img{
     width: 400px;
     height:400px;
     position: absolute;
-    left: 600px; top: 560px;
+    left: 620px; top: 600px;
     z-index: 3;
     
 }
@@ -53,10 +55,15 @@ img{
     background-color: white;
     position: absolute;
     left: 560px; top: 200px;
-    width: 700px;
-    height:800px;
+    width: 740px;
+    height:850px;
     z-index: 1;
 }
-figcaption{
-    
+figurecaption{
+    background-color: white;
+    position: absolute;
+    left: 620px; top:1000px;
+    width: 70px;
+    height:30px;
+    z-index: 3;
 }
