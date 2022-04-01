@@ -3,11 +3,7 @@
     padding: 0;
 }
 body{
-<<<<<<< HEAD
     background-color: rgb(165,134,134)
-=======
-    background-color:rgb(165,134,134);
->>>>>>> fbb5a0629138ff0759e89c351a99cb2b60162591
 }
 header{
     background-color: rgb(233,233,233);
@@ -17,18 +13,29 @@ header{
     margin:auto;
      
 }
-#tealSection{
+h2{
     background-color: rgb(100,176,167);
     position: absolute;
-    left: 131px;
+    left: 260px; top: 200px;
     width: 300px;
     height:1000px;
-    text-align: center;
+  
 }
+ol{
+    background-color: rgb(100,176,167);
+    position: absolute;
+    left: 280px; top: 230px;
+    width: 280px;
+    height:1000px;
+    /*text-align: right;*/
+  
+}
+
 #white{
     background-color: white;
     float: right;
 }
+
 figure{
     background-color: white;
 }
