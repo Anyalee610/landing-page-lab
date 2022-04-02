@@ -38,7 +38,7 @@ h2{
     left: 220px; top: 200px;
     padding: 20px;
     width: 340px;
-    height:850px;
+    height:800px;
     font-size: 40px;
     font-family: 'Aria lNarrow', sans-serif;
   
@@ -49,7 +49,7 @@ ol{
     position: absolute;
     left: 260px; top: 290px;
     width: 310px;
-    height:770px;
+    height:700px;
     font-size: 30px;
     font-family: 'Aria lNarrow', sans-serif;
     
@@ -58,9 +58,11 @@ ol{
 
 #white{
     background-color: white;
+    padding-top:40px;
+    padding-left:50px ;
     position: absolute;
-    left: 620px; top: 240px;
-    width: 680px;
+    left: 560px; top: 200px;
+    width: 690px;
     height:800px;
     z-index: 2;
     font-size: 20px;
@@ -75,14 +77,14 @@ img{
     z-index: 3;
     
 }
-.white-background{
-    background-color: white;
-    position: absolute;
-    left: 560px; top: 200px;
-    width: 740px;
-    height:850px;
-    z-index: 1;
-}
+/*.white-background{*/
+/*    background-color: white;*/
+/*    position: absolute;*/
+/*    left: 560px; top: 200px;*/
+/*    width: 740px;*/
+/*    height:850px;*/
+/*    z-index: 1;*/
+
 figurecaption{
     background-color: white;
     position: absolute;
