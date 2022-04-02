@@ -2,9 +2,11 @@
     margin:0;
     padding: 0;
 }
+/*everything*/
 body{
     background-color: rgb(165,134,134)
 }
+/*The title and the date at the top*/
 header{
     background-color: rgb(233,233,233);
     text-align: center;
@@ -15,6 +17,7 @@ header{
     font-family: 'Aria lNarrow', sans-serif;
      
 }
+/*Dont delete going to try later*/
 /*#tealSection{*/
 /*    background-color: rgb(100,176,167);*/
 /*    position: absolute;*/
@@ -32,6 +35,9 @@ header{
 /*ol{*/
 /*    font-size: 30px*/
 /*}*/
+
+
+/*the heading for the to do list on the left*/
 h2{
     background-color: rgb(100,176,167);
     position: absolute;
@@ -43,6 +49,7 @@ h2{
     font-family: 'Aria lNarrow', sans-serif;
   
 }
+/*The order list on the left I tried list-style-position: inside and it fixed the problem but I like how this looks. I left everything commented so you can try yourself*/
 ol{
     /*list-style-position: inside;*/
     background-color: rgb(100,176,167);
@@ -55,7 +62,7 @@ ol{
     
   
 }
-
+/*the two paragraphs used padding to move them more inward*/
 #white{
     background-color: white;
     padding-top:40px;
@@ -68,7 +75,7 @@ ol{
     font-size: 20px;
     font-family: 'Aria lNarrow', sans-serif;
 }
-
+/*For the img of the woman*/
 img{
     width: 400px;
     height:400px;
@@ -77,6 +84,7 @@ img{
     z-index: 3;
     
 }
+/*dont need this. However, it was for practice, dont delete plx */
 /*.white-background{*/
 /*    background-color: white;*/
 /*    position: absolute;*/
@@ -85,6 +93,7 @@ img{
 /*    height:850px;*/
 /*    z-index: 1;*/
 
+/*for the caption that says "dope art"*/
 figurecaption{
     background-color: white;
     position: absolute;
@@ -93,7 +102,7 @@ figurecaption{
     height:30px;
     z-index: 3;
 }
-
+/*for the juice word in the unordered list*/
 #white2{
     color: white
 }
